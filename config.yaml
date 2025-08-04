@@ -1,0 +1,4 @@
+name: "example"
+replicas: 3
+annotations:
+  my-annotation: "hello world"
