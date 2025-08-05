@@ -1,4 +1,4 @@
-name: "example"
-replicas: 3
+name: my new name from api
+replicas: 100
 annotations:
-  my-annotation: "hello world"
+  oh-my: just testing
