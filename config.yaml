@@ -1,27 +1,4 @@
 name: my new name from api
-path: config.yaml
-sha: 7f0272835c6a12f84651cd843fb18fbd9ba3bf08
-size: 76
-url: https://api.github.com/repos/samely/turtle/contents/config.yaml?ref=master
-html_url: https://github.com/samely/turtle/blob/master/config.yaml
-git_url: >-
-  https://api.github.com/repos/samely/turtle/git/blobs/7f0272835c6a12f84651cd843fb18fbd9ba3bf08
-download_url: https://raw.githubusercontent.com/samely/turtle/master/config.yaml
-type: file
-content: |
-  bmFtZTogbXkgbmV3IG5hbWUgZnJvbSBhcGkKcmVwbGljYXM6IDEwMAphbm5v
-  dGF0aW9uczoKICBvaC1teToganVzdCB0ZXN0aW5nCg==
-encoding: base64
-_links:
-  self: https://api.github.com/repos/samely/turtle/contents/config.yaml?ref=master
-  git: >-
-    https://api.github.com/repos/samely/turtle/git/blobs/7f0272835c6a12f84651cd843fb18fbd9ba3bf08
-  html: https://github.com/samely/turtle/blob/master/config.yaml
-jsonContent:
-  name: my new name from api
-  replicas: 100
-  annotations:
-    oh-my: just testing
 replicas: 100
 annotations:
   oh-my: just updating
