@@ -1,4 +1,4 @@
 name: my new name from api
 replicas: 100
 annotations:
-  oh-my: just updating
+  oh-my: just fixing value
