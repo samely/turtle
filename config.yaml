@@ -1,4 +1,4 @@
-name: my github name
+name: my-github-name
 replicas: 100
 annotations:
   oh-my: just fixing value
