@@ -1,7 +1,7 @@
-name: my-github-name
+name: my name github
 replicas: 100
 annotations:
-  oh-my: hello
+  oh-my: just-me
 content: |
   <!DOCTYPE html>
   <html>
