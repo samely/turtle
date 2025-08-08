@@ -1,4 +1,15 @@
 name: my-github-name
 replicas: 100
 annotations:
-  oh-my: just fixing value
+  oh-my: hello
+content: |
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <title>Hello from ConfigMap</title>
+    </head>
+    <body>
+      <h1>Hello, this is from the ConfigMap!</h1>
+      <p>Served by Nginx using a mounted volume.</p>
+    </body>
+  </html>
