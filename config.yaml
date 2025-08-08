@@ -1,4 +1,4 @@
-name: my name
+name: my-name
 replicas: 100
 annotations:
   oh-my: just-me
